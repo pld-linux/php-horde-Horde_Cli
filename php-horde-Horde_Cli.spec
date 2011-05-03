@@ -11,7 +11,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	cd4ff47371d00ea814c34f5aedf42dd0
-URL:		http://pear.horde.org/package/Horde_Cli/
+URL:		https://github.com/horde/horde/tree/master/framework/Cli/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
