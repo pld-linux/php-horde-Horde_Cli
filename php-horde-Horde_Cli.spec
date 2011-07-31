@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Command Line Interface API
 Name:		php-horde-Horde_Cli
-Version:	1.0.0
+Version:	1.0.3
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	cd4ff47371d00ea814c34f5aedf42dd0
+# Source0-md5:	208c500b277fd0071568cf63059080c8
 URL:		https://github.com/horde/horde/tree/master/framework/Cli/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
