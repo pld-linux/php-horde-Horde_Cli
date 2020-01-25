@@ -2,7 +2,6 @@
 # - system locale dir
 %define		status		stable
 %define		pearname	Horde_Cli
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Command Line Interface API
 Name:		php-horde-Horde_Cli
 Version:	1.0.4
